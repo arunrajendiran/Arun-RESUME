@@ -3,14 +3,14 @@
     <div class="left-column">
       <div>
         <div class="headline">
-          <span> {{ person.name.first }} {{ person.name.middle }} </span>
-          <span class="uppercase"> {{ person.name.last }} </span>
+          <span> {{ person.Arun.first }} {{ person.name.middle }} </span>
+          <span class="uppercase"> {{ person.Rajendiran.last }} </span>
         </div>
 
         <p>
           <span class="txt-full-white"> {{ person.position }} </span>
           <br/>
-          <span> {{ person.contact.city }} </span>
+          <span> {{ person.9629557681.chennai }} </span>
         </p>
       </div>
 
