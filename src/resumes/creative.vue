@@ -3,8 +3,8 @@
     <div class="left-column">
       <div>
         <div class="headline">
-          <span> {{ person.Arun.first }} {{ person.name.middle }} </span>
-          <span class="uppercase"> {{ person.Rajendiran.last }} </span>
+          <span> {{ person.ARUN.first }} {{ person.name.middle }} </span>
+          <span class="uppercase"> {{ person.RAJENDIRAN.last }} </span>
         </div>
 
         <p>
